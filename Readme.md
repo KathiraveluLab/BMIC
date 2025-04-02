@@ -1,4 +1,4 @@
-# Bindaas-Mongo Integrated Container
+# BMIC: Bindaas-Mongo Integrated Container
 
 * Installs Mongo
 * Installs Bindaas
